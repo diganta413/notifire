@@ -106,23 +106,34 @@ Notifire provides a single API to manage providers across multiple channels with
 - [x] [Postmark](https://github.com/notifirehq/notifire/tree/master/providers/postmark)
 - [x] [NodeMailer](https://github.com/notifirehq/notifire/tree/master/providers/nodemailer)
 - [x] [Mailjet](https://github.com/notifirehq/notifire/tree/master/providers/mailjet)
+- [x] [Mandrill](https://github.com/notifirehq/notifire/tree/master/providers/mandrill)
 - [ ] SendinBlue
 - [ ] SparkPost
 
 #### 📞 SMS
 - [x] [Twilio](https://github.com/notifirehq/notifire/tree/master/providers/twilio)
 - [x] [Plivo](https://github.com/notifirehq/notifire/tree/master/providers/plivo)
+- [x] [SNS](https://github.com/notifirehq/notifire/tree/master/providers/sns)
 - [ ] Nexmo (Vonage)
 - [ ] Bandwidth
 - [ ] RingCentral
 
 #### 📱 Push (Coming Soon...)
 - [ ] Pushwoosh
+- [ ] SNS
 
+#### 👇 Direct (Coming Soon...)
+- [ ] Slack
+- [ ] MS Teams
+- [ ] Discord
+- [ ] Mattermost
 
 #### 📱 In-App (Coming Soon...)
 - [ ] Notifire
 - [ ] MagicBell
+
+#### Other (Coming Soon...)
+- [ ] PagerDuty
 
 ## 🔗 Links
 - [Home page](https://notifire.co/)

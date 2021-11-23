@@ -1,6 +1,6 @@
 {
   "name": "@notifire/core",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "description": "Notification Management Framework",
   "main": "build/main/index.js",
   "typings": "build/main/index.d.ts",
@@ -45,15 +45,17 @@
   },
   "devDependencies": {
     "@sendgrid/mail": "^7.4.6",
-    "@types/jest": "27.0.2",
-    "@types/lodash.get": "^4.4.6",
-    "@types/lodash.merge": "^4.6.6",
     "codecov": "^3.5.0",
+    "@types/lodash.merge": "^4.6.6",
+    "@types/lodash.get": "^4.4.6",
     "cz-conventional-changelog": "^3.3.0",
     "npm-run-all": "^4.1.5",
     "open-cli": "^6.0.1",
-    "standard-version": "^9.0.0",
-    "typedoc": "^0.19.0"
+    "typedoc": "^0.19.0",
+    "@types/jest": "^27.0.1",
+    "@types/node": "^14.6.0",
+    "ts-jest": "^27.0.5",
+    "jest": "^27.0.6"
   },
   "files": [
     "build/main",
@@ -72,5 +74,5 @@
   "prettier": {
     "singleQuote": true
   },
-  "gitHead": "5af1be86c8995bd161c0c41c8a43afdd42cde138"
+  "gitHead": "29e2f6749f25860471f563d70b7fbf7ee304d6d4"
 }
